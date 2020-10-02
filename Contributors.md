@@ -24,6 +24,7 @@
   [Evelyn Chang]
 - Jason Cozzitorto
 - [J Walker] (https://github.com/jwalker0903)
+- [Mayur Bansal](https://github.com/Mayur290/)
 - [Ross Baker] (https://github.com/r0ss26)
 - [Roberto](https://github.com/rdm100)
 - [Rashik Adhikari] (https://github.com/rashik06)
